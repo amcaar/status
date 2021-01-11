@@ -4,19 +4,25 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: SQAaaS Web
+    url: https://sqaaas.eosc-synergy.eu/
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: SQAaaS API - production
     url: https://api.sqaaas.eosc-synergy.eu/v1/
-    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
     expectedStatusCodes:
       - 403
   - name: SQAaaS API - staging
     url: https://api-staging.sqaaas.eosc-synergy.eu/v1/
-    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
     expectedStatusCodes:
       - 403
   - name: SQAaaS API - development
     url: https://api-dev.sqaaas.eosc-synergy.eu/pipeline
     icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+  - name: Jenkins
+    url: https://jenkins.eosc-synergy.eu/
+    icon: https://cdn.imgbin.com/11/2/21/imgbin-jenkins-docker-continuous-delivery-installation-software-deployment-github-Dm3vXdSYp61UevYTam2zCT0D0.jpg
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,7 +31,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
   name: UEOSC Synergy service status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: EOSC Synergy service status
   introMessage: Live status page of [EOSC Synergy](https://eosc-synergy.eu) services.
   navbar:
     - title: Status
