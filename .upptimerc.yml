@@ -4,12 +4,20 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: SQAaaS API - production
+    url: https://api.sqaaas.eosc-synergy.eu/v1/
+    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    expectedStatusCodes:
+      - 403
+  - name: SQAaaS API - staging
+    url: https://api-staging.sqaaas.eosc-synergy.eu/v1/
+    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    expectedStatusCodes:
+      - 403
   - name: SQAaaS API - development
     url: https://api-dev.sqaaas.eosc-synergy.eu/pipeline
     icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.eosc-synergy.eu
