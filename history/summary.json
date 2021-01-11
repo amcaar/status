@@ -1,5 +1,41 @@
 [
   {
+    "name": "SQAaaS API - production",
+    "url": "https://api.sqaaas.eosc-synergy.eu/v1/",
+    "icon": "https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png",
+    "slug": "sq-aaa-s-api-production",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1048,
+    "timeDay": 1048,
+    "timeWeek": 1048,
+    "timeMonth": 1048,
+    "timeYear": 1048,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SQAaaS API - staging",
+    "url": "https://api-staging.sqaaas.eosc-synergy.eu/v1/",
+    "icon": "https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png",
+    "slug": "sq-aaa-s-api-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 434,
+    "timeDay": 434,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "SQAaaS API - development",
     "url": "https://api-dev.sqaaas.eosc-synergy.eu/pipeline",
     "icon": "https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png",
@@ -16,25 +52,5 @@
     "timeMonth": 474,
     "timeYear": 474,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-11": 0
-    }
   }
 ]
