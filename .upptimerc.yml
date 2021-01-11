@@ -6,7 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: SQAaaS Web
     url: https://sqaaas.eosc-synergy.eu/
-    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    icon: https://www.eosc-synergy.eu/wp-content/uploads/logo-eosc-synergy.svg
   - name: SQAaaS API - production
     url: https://api.sqaaas.eosc-synergy.eu/v1/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
