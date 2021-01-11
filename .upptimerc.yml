@@ -6,7 +6,7 @@ repo: status # Your GitHub repository name
 sites:
   - name: SQAaaS Web
     url: https://sqaaas.eosc-synergy.eu/
-    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
+    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
   - name: SQAaaS API - production
     url: https://api.sqaaas.eosc-synergy.eu/v1/
     icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
@@ -19,10 +19,10 @@ sites:
       - 403
   - name: SQAaaS API - development
     url: https://api-dev.sqaaas.eosc-synergy.eu/pipeline
-    icon: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png
   - name: Jenkins
     url: https://jenkins.eosc-synergy.eu/
-    icon: https://cdn.imgbin.com/11/2/21/imgbin-jenkins-docker-continuous-delivery-installation-software-deployment-github-Dm3vXdSYp61UevYTam2zCT0D0.jpg
+    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
