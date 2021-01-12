@@ -28,7 +28,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status.eosc-synergy.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /status
   logoUrl: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
   name: UEOSC Synergy service status
   introTitle: EOSC Synergy service status
