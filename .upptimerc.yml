@@ -30,7 +30,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
   logoUrl: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
-  name: UEOSC Synergy service status
+  name: EOSC Synergy service status
   introTitle: EOSC Synergy service status
   introMessage: Live status page of [EOSC Synergy](https://eosc-synergy.eu) services.
   navbar:
