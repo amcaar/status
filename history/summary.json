@@ -22,9 +22,9 @@
     "url": "https://api.sqaaas.eosc-synergy.eu/v1/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 997,
     "timeMonth": 999,
     "timeYear": 999,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "SQAaaS API - staging",
