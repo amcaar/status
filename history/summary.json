@@ -22,19 +22,19 @@
     "url": "https://api.sqaaas.eosc-synergy.eu/v1/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 945,
-    "timeWeek": 997,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 996,
+    "timeDay": 942,
+    "timeWeek": 990,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2021-01-20": 0
+      "2021-01-20": 59
     }
   },
   {
