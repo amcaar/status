@@ -24,8 +24,8 @@ sites:
     url: https://jenkins.eosc-synergy.eu/
     icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU
   - name: EC3
-    url: http://servproject.i3m.upv.es/ec3-synergy/
-    icon: http://servproject.i3m.upv.es/ec3/img/ec3-small.png
+    url: https://servproject.i3m.upv.es/ec3-synergy/
+    icon: https://servproject.i3m.upv.es/ec3/img/ec3-small.png
   - name: IM
     url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
     icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
